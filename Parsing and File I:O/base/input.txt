@@ -1,0 +1,10 @@
+1,2,3
+iDidIt
+3,2,5
+football
+3,4,3
+snow
+1,5,1
+dallas
+2,2,7
+dogecoin
